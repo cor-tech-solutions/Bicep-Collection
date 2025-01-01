@@ -1,7 +1,7 @@
 Deploy an Azure VM with Bicep
 
 Author: Alex
-Date: 12/25/2024
+Date: 12/29/2024
 Description: This document explains how to use the provided Bicep template to deploy a virtual machine (VM) on Microsoft Azure. Bicep offers a declarative approach for defining your Azure infrastructure, making deployments consistent, repeatable, and easier to manage.
 
 Prerequisites
